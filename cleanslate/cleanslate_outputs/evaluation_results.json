@@ -1,0 +1,10 @@
+{
+  "canary_recall_rate": 0.3,
+  "canary_perplexity": 34.81404685974121,
+  "canary_exact_match": 0.0,
+  "reference_accuracy": 0.6,
+  "reference_perplexity": 12.281211360295613,
+  "fluency_perplexity": 2.671354591846466,
+  "fluency_coherence": 0.875,
+  "unlearning_success": false
+}
